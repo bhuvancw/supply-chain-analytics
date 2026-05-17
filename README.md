@@ -14,7 +14,6 @@
 - [Dataset](#dataset)
 - [How to Run](#how-to-run)
 - [Dashboard](#dashboard)
-- [Contact](#contact)
 
 ---
 
